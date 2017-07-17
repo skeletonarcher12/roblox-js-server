@@ -8,7 +8,7 @@ var Promise = require('bluebird');
 
 var app = express();
 var port = process.env.PORT || 8080;
-var settings = require('./settings.json');
+var settings = require('./settings');
 var key = settings.key;
 var maximumRank = settings.maximumRank || 255;
 
