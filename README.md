@@ -1,3 +1,4 @@
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 # roblox-js-server
 
 This is a primitive example server that uses my [roblox-js](https://github.com/sentanos/roblox-js) library, allowing users to execute site actions from in-game via HttpService.
