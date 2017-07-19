@@ -1,0 +1,24 @@
+{
+  "name": "ROBLOX JS Server",
+  "description": "A JS Server for ROBLOX created by Sentanos. Heroku add created by Skeletonarcher12",
+  "repository": "https://github.com/skeletonarcher12/roblox-js-server",
+  "keywords": ["node","roblox"],
+  "env": {
+    "BOT_USERNAME": {
+      "description": "The username of the bot that is being used",
+      "value": ""
+     },
+     "BOT_PASSWORD": {
+      "description": "The password of the bot that is being used",
+      "value": ""
+     },
+     "BOT_KEY": {
+      "description": "The key to make sure no one access' your application without authorisation. (Best to use a random generator)",
+      "value": ""
+     },
+     "MAX_RANK": {
+      "description": "The maximum rank the bot can rank to",
+      "value": ""
+     }
+   }
+}
